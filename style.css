@@ -1,0 +1,38 @@
+#avatar{
+  position: absolute;
+  left : 1000px;
+  top : 100px;
+
+}
+
+#acceuil{
+  text-align: center;
+  margin-top: 300px;
+}
+
+.card-text{
+  color : #1940C2;
+}
+
+.centrer{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header{
+}
+
+html{
+}
+
+body{
+}
+
+footer{
+}
+
+.container{
+}
+
+
