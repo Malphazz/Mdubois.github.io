@@ -10,9 +10,7 @@
   margin-top: 300px;
 }
 
-.card-text{
-  color : #1940C2;
-}
+
 
 .centrer{
   display: block;
@@ -34,5 +32,21 @@ footer{
 
 .container{
 }
+
+h1{
+  color : #0770FF;
+}
+h2{
+  color : #0770FF;
+}
+h3{
+  color : #0770FF;
+}
+
+nav{
+  background-color : #0770FF;
+}
+
+
 
 
