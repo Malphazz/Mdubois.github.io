@@ -8,6 +8,8 @@
 #acceuil{
   text-align: center;
   margin-top: 300px;
+  animation: bounce; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 2s;
 }
 
 
@@ -45,6 +47,15 @@ h3{
 
 nav{
   background-color : #0770FF;
+}
+
+#organigramme{
+  margin-left: 200px;
+}
+
+#banniere{
+  margin-top: 20px;
+  margin-bottom: 100px;
 }
 
 
